@@ -64,11 +64,3 @@ Queremos agradecer quienes nos brindaron la ayuda necesaria para que podamos lle
     + Vazquez Leandro Ariel
     + Echerdt Mauro
     + Coacci Pablo
-
-### Autores
-
-+ Crespi Gustavo
-+ Lupani Belén
-+ Federella Santiago 
-+ Vásquez Ramiro
-+ Yep Ramiro
